@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Except these
+!.gitignore
+!RTL/
+
+# If you want to keep some constraints or sdc too, add:
+#!constraints/
+#!*.sdc
